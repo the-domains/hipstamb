@@ -1,0 +1,28 @@
+name: hipstaMB
+favicon: null
+layout_spectrum: 0.7432918162085116
+typography_spectrum: 0.265212758211419
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16581186559051275
+  lightness: 0.7739285146817565
+  saturation: 0.992033754941076
+  rhythmicContrast: 0.39090748969465494
+purpose: []
