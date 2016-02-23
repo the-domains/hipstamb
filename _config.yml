@@ -1,6 +1,6 @@
 name: hipstaMB
 favicon: null
-layout_spectrum: 0.75501
+layout_spectrum: 0.2476
 typography_spectrum: 0.42126
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#ad8144'
     - '#e00004'
   brandStrength: 0
-  lightness: 1
+  lightness: 0.875
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
