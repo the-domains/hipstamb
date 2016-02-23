@@ -1,9 +1,7 @@
-favicon: null
 name: hipstaMB
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.20296
+typography_spectrum: 0.90074
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.992033754941076
-  brandStrength: 0.1658118655905128
-  rhythmicContrast: 0.3909074896946549
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  lightness: 0.7739285146817565
-typography_spectrum: 0.265212758211419
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.9382384
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fdfdff'
+    - '#04cefe'
+    - '#0a0603'
+    - '#ad8144'
+    - '#e00004'
+  brandStrength: 0.1658118655905128
+  lightness: 0.7739285146817565
+  saturation: 0.625
+  rhythmicContrast: 0.3909074896946549
+purpose: []
