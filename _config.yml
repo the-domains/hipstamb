@@ -1,6 +1,6 @@
 name: hipstaMB
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25342
 typography_spectrum: 0.509667
 title: soft HDR scoop of Maribor
 collections:
@@ -35,7 +35,7 @@ color:
     - '#E9BD91'
     - '#160E04'
   brandStrength: 0
-  lightness: 0.8286788
-  saturation: 0.9618689
-  rhythmicContrast: 0.7352309
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
