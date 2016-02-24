@@ -1,5 +1,8 @@
+name: hipstaMB
+favicon: null
+layout_spectrum: 0.73647
+typography_spectrum: 0.509667
 title: soft HDR scoop of Maribor
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9618689
-  brandStrength: 0
-  lightness: 0.8286788
   brandColors:
     - '#F2FBFF'
     - '#77E9FF'
     - '#04CFFF'
     - '#E9BD91'
     - '#160E04'
+  brandStrength: 0
+  lightness: 0.8286788
+  saturation: 0.9618689
   rhythmicContrast: 0.7352309
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: hipstaMB
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.509667
-layout_spectrum: 0
+purpose: []
