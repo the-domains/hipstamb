@@ -4,8 +4,15 @@
         <description><![CDATA[soft HDR scoop of Maribor]]></description>
         <link>https://thegrid.ai/hipstamb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 00:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 00:32:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hipstamb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunny day]]></title>
+            <description><![CDATA[<article><h1>Sunny day</h1><p>Sunny day in Maribor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c98abda6a992da812ddb00e53a6fcba297789ef.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hipstamb/c2e4b43b-a035-46f5-982e-b2f7db8f1742/index.html</link>
+            <guid isPermaLink="false">c2e4b43b-a035-46f5-982e-b2f7db8f1742</guid>
+            <pubDate>Wed, 24 Feb 2016 00:30:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pekarna]]></title>
             <description><![CDATA[<article><h1>Pekarna</h1><p>Pekarna, Maribor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c896ae311dbe7bc39107b7655e40d01a6ca5ac2.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/hipstamb/c23ed500-253c-450d-a8eb-f63977ef5c19/index.html</link>
             <guid isPermaLink="false">c23ed500-253c-450d-a8eb-f63977ef5c19</guid>
             <pubDate>Tue, 23 Feb 2016 22:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d54c6307-240e-4790-b85f-2419eda7ae5f.jpg">]]></description>
-            <link>https://thegrid.ai/hipstamb/c2e4b43b-a035-46f5-982e-b2f7db8f1742/index.html</link>
-            <guid isPermaLink="false">c2e4b43b-a035-46f5-982e-b2f7db8f1742</guid>
-            <pubDate>Tue, 23 Feb 2016 22:42:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
