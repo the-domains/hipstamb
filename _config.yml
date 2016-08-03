@@ -51,4 +51,5 @@ collections:
     permalink:
       path: '/:title/'
 title: HDR scoop of Maribor
+description: hipstamatic/instagram
 purpose: []
