@@ -28,6 +28,9 @@ navigation:
   - name: Pekarna
     id: f2f6cc6a-b80f-49df-b2d0-793a3ae0ec1d
     type: content
+  - name: Rainy day
+    id: c23ed500-253c-450d-a8eb-f63977ef5c19
+    type: content
 favicon: null
 collections:
   - index:
