@@ -34,6 +34,9 @@ navigation:
   - name: Sunny day
     id: c2e4b43b-a035-46f5-982e-b2f7db8f1742
     type: content
+  - name: Foggy day
+    id: 9b4cb3d0-b915-417b-9f31-5f3d5f7ece31
+    type: content
 favicon: null
 collections:
   - index:
