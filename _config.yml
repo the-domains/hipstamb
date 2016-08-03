@@ -1,5 +1,34 @@
-title: soft HDR scoop of Maribor
-purpose: []
+typography_spectrum: 0.5150376
+color:
+  saturation: 0.6750805
+  brandStrength: 0
+  lightness: 0.5912997
+  brandColors:
+    - '#020202'
+    - '#ffffff'
+    - '#b9ccd2'
+    - '#2c2b31'
+    - '#5d7077'
+  rhythmicContrast: 0.2529538
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2293233
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: hipstaMB
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Pekarna
+    id: f2f6cc6a-b80f-49df-b2d0-793a3ae0ec1d
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.6750805
-  brandStrength: 0
-  lightness: 0.5912997
-  brandColors:
-    - '#020202'
-    - '#ffffff'
-    - '#b9ccd2'
-    - '#2c2b31'
-    - '#5d7077'
-  rhythmicContrast: 0.2529538
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: hipstaMB
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5150376
-layout_spectrum: 0.2293233
+title: soft HDR scoop of Maribor
+purpose: []
